@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <link rel="stylesheet" href="Index.css">
+
+
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+        <div class="navbar-nav">
+          <a class="nav-item nav-link active" href="Index.html">Home <span class="sr-only">(current)</span></a>
+          <a class="nav-item nav-link" href="About_me.html">About Me</a>
+          <a class="nav-item nav-link" href="My_experience.html">My Experience</a>
+          <a class="nav-item nav-link" href="Contact_me.html">Contact Me</a>
+          <a class="nav-item nav-link" href="Game.html">Play my Game!</a>
+        </div>
+      </div>
+    </nav>
+
+          <title>Home Page</title>
+  <body>     
+           
+        
+      
+    <h1>Welcome to my Website!
+
+      </h1>
+     
+      <h2>A little bit about me!</h2>
+      <p>My name is Robert Giuffra and I am a junior at Kean University. My major is IT with a focus on CyberSercurity. 
+
+      </p>
+
+      <p>What I want to do in the future is be on the top of the CyberSercurity branch in a company.
+        
+      </p>
+      <img src="ABC.png" alt="ABC: Always Be Coding!" width="400" height="300" class="center">
+   
+      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
